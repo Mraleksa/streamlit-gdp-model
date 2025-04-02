@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4a90e2"             # синій акцент (замість червоного)
+backgroundColor = "#ffffff"          # білий фон
+secondaryBackgroundColor = "#f0f2f6" # сірий фон для контейнерів
+textColor = "#000000"                # чорний текст
+font = "sans serif"
